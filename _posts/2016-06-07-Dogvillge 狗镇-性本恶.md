@@ -2,7 +2,7 @@
 layout: post
 title: "Dogvillge 狗镇-性本恶"
 date: 2016-06-07
-excerpt: "A ton of text to test readability."
+excerpt: "第一篇简单的影评。"
 tags: [sample post, readability, test]
 comments: true
 ---
